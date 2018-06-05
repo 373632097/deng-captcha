@@ -1,0 +1,14 @@
+{
+    "name": "deng/captcha",
+    "description": "this is my capthcha",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "deng deng",
+            "email": "373632097@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
